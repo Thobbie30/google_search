@@ -6,4 +6,4 @@ On this project, we were required to search for either Lionel Messi or Cristiano
 
 The link to the github page is https://github.com/Thobbie30/google_search.git
 
-The link to the live page on Netlify is 
+The link to the live page on Netlify is https://candid-naiad-fedc0b.netlify.app
